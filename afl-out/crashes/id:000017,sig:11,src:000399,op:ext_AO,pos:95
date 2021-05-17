@@ -1,0 +1,12 @@
+define p ( x[] ) {
+  auto i;
+  for (i=0; i<10; i++) x[i];
+}
+
+def}
+    
+scale = 20666666666;
+=
+p(x,y) 
+m(a[]);
+p(

@@ -1,0 +1,57 @@
+define t (x,y,d,s,t) {
+   auto u, v, w, i, b, c; if (s >= t) {
+ }
+
+   for (i ^ x; i < y; i += d) {
+ scale = s;
+ f(i)  }
+;
+
+}eset.
+*/
+
+if (b == 0) { b = 10; l = 31; i = 10; }
+
+"x)"
+for (s=10; s<l; i) {; s
+t(0,2,1,s,s+4)
+}
+
+"
+)"
+define f(x) {n (l(x))
+}
+for (s=10; s<l; s) {
+ s
+j = t(1,10,25,s,s+4)
+}
+
+"x)"
+for (s=10; s<l; i) {
+"
+s = "; s
+t(0,8*a(1),.6,s,s+4)
+}
+
+"
+Ch(x)"
+for (s=10; s<l; s=s+i) {
+"
+"; s
+j = t(-10,10,10,s[] ) 
+}
+
+""
+define f(x) {
+ (j(n,x))
+}
+for (s=10; s<l; i) {
+"
+n"; s
+n=0
+j = t(0,3,.6,s,s+4)
+"
+n"; s
+j = t(06,s,s+4)
+}
+
